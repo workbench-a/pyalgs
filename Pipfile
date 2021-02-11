@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
+jupyterlab = "*"
+pytest = "*"
+pylint = "*"
+pdoc3 = "*"
+pipfile = "*"
+twine = "*"
+
+[requires]
+python_version = "3.8"
