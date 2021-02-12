@@ -18,8 +18,8 @@
 
 #### Tox: Workflow / Testing Automation
 
-#### Make: For custom build comands
+#### Make: Custom build comands
 
 #### CircleCI: CI/CD
 
-#### SetUpTools, Twine: For packaging and publishing to a public repository.
+#### SetUpTools, Twine: Packaging and publishing to a public package index.
