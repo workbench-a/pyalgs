@@ -24,7 +24,11 @@ def test_selection(arr_sample):
     assert selection(arr_sample[0]) == arr_sample[1]
 
 # def test_merge(arr_sample):
-#     assert sort2.merge(arr_merge_sample[0], arr_merge_sample[1]) == arr_merge_sample[2]
+#     assert len(merge(arr_sample[0])) == len(merge(arr_sample[0]))
+#     set_0 = {num for num in merge(arr_sample[0])}
+#     set_1 = {num for num in arr_sample[1]}
+#     assert set_0 == set_1
+#     assert merge(arr_sample[0]) == arr_sample[1]
 
 # def test_merge_sort(arr_sample):
 #     assert sort2.merge_sort(arr_sample[0]) == arr_sample[1]
