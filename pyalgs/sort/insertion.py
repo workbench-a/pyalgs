@@ -10,6 +10,6 @@ def insertion(arr: List[TKey]) -> List[TKey]:
     j = i - 1
     while j > -1 and arr[j] > key:
       arr[j+1] = arr[j]
-      j = j - 1
+      j -= 1
     arr[j+1] = key
   return arr
