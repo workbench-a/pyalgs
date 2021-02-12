@@ -18,7 +18,7 @@
 
 #### Tox: Workflow / Testing Automation
 
-#### Make: For custom build comands
+#### Make: For custom build commands
 
 #### CircleCI: CI/CD
 

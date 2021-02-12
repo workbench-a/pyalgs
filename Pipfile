@@ -6,15 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask = "*"
-sqlalchemy = "*"
-psycopg2-binary = "*"
-jupyterlab = "*"
 pytest = "*"
 pylint = "*"
 pdoc3 = "*"
 pipfile = "*"
 twine = "*"
+tox-pipenv = "*"
 
 [requires]
 python_version = "3.8"
